@@ -1,0 +1,34 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+    margin:10px;
+}
+.head{
+    font-size: 18px;
+    font-weight: bold;
+}
+.footerLogo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width:96px;
+    height:32px;
+    margin-top:10px;
+    align-self: center;
+}
+li{
+    list-style-type: none;
+}
+@media (min-width:769px){
+    .footer{
+        flex-direction: row;
+    }
+    .footerLogo{
+        order:-1;
+    }
+}
+.section{
+line-height: 30px;
+}
