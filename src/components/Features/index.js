@@ -1,7 +1,7 @@
-import engagement from '../../images/engagement.png'
-import autonomy from '../../images/autonomy.png'
-import earn from '../../images/earn.png'
-import free from '../../images/free.png'
+import engagement from '../../../public/engagement.png'
+import autonomy from '../../../public/autonomy.png'
+import earn from '../../../public/earn.png'
+import free from '../../../public/free.png'
 import './index.css'
 
 const Features = () => {

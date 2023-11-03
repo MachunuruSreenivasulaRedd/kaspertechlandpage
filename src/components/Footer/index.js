@@ -1,5 +1,5 @@
-import logo from '../../images/logo.png'
-import row from '../../images/row.png'
+import logo from '../../../public/logo.png'
+import row from '../../../public/row.png'
 import './index.css'
 const Footer = () => {
   return (

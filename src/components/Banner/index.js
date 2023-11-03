@@ -1,6 +1,6 @@
 import './index.css'
-import videocalls from '../../images/videocalls.png'
-import img from '../../images/img.png'
+import videocalls from '../../../public/videocalls.png'
+import img from '../../../public/img.png'
 const Banner = () => {
   return (
     <div className="mainbannerContainer">

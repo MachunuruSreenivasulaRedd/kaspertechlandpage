@@ -1,8 +1,8 @@
 import './index.css'
-import img1 from '../../images/img1.png'
-import img2 from '../../images/img2.png'
-import img3 from '../../images/img3.png'
-import arrowIcon from '../../images/arrowIcon.png'
+import img1 from '../../../public/img1.png'
+import img2 from '../../../public/img2.png'
+import img3 from '../../../public/img3.png'
+import arrowIcon from '../../../public/arrowIcon.png'
 
 const Team = () => {
   return (
